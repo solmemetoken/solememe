@@ -1,6 +1,6 @@
 {
-  "name": "Solana Meme DevNet Token",
-  "symbol": "SMDT",
+  "name": "Solana Meme DevNet",
+  "symbol": "SOLMEMED",
   "description": "Solana Meme DevNet Token",
   "image": "https://raw.githubusercontent.com/solmemetoken/solememe/main/devnet_logo.png"
 }
